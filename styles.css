@@ -441,7 +441,13 @@ much butter */
 
 /* RESPONSIVE */
 @media (max-width: 600px){ /* please debug me ;_; */
-  .nav{ display:none; } /* supposed to match the “simple” look on smaller screens, but still needs debugging */
+  .nav{ display:none; } /* supposed to match the “simple” look on smaller screens, 
+  but still needs debugging */
+
+  /* IDEA UPDATE
+  Matter of fact, gimme a muhfuggin uhhhhhhhh
+  HAMBURGER
+   */
   .hero h1{ font-size:40px; }
   .offers-grid{ grid-template-columns: 1fr 1fr; }
   .card-grid{ grid-template-columns: 1fr 1fr; }
